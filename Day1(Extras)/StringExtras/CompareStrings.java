@@ -1,4 +1,4 @@
-public class Eight {
+public class CompareStrings {
     public static void main(String[] args) {
     String a = "apple";
     String b = "banana";

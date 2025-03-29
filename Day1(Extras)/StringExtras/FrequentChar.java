@@ -1,4 +1,4 @@
-public class Nine {
+public class FrequentChar {
     public static void main(String[] args) {
     String s = "success";
     int max = 0;

@@ -1,7 +1,7 @@
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
-public class ThreeDate {
+public class DateFormatting {
 
     public static void main(String[] args) {
         LocalDate d = LocalDate.now();

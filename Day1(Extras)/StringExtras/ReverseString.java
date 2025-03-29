@@ -1,4 +1,4 @@
-public class two {
+public class ReverseString {
     public static void main(String[] args) {
     String s = "apple";
     String r = "";

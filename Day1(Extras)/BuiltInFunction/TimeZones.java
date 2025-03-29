@@ -1,7 +1,7 @@
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 
-public class OneDate {
+public class TimeZones {
 
     public static void main(String[] args) {
         ZonedDateTime g = ZonedDateTime.now(ZoneId.of("GMT"));

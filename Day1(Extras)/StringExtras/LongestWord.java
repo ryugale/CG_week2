@@ -1,4 +1,4 @@
-public class Five {
+public class LongestWord {
     public static void main(String[] args) {
     String s = "i love coding every day";
     String[] a = s.split(" ");

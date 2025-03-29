@@ -1,6 +1,6 @@
 import java.time.LocalDate;
 
-public class TwoDate {
+public class DateArithmetic {
 
     public static void main(String[] args) {
         LocalDate d = LocalDate.of(2023, 4, 14);

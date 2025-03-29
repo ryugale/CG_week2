@@ -1,4 +1,4 @@
-public class Seven {
+public class UppertoLowerCase {
     public static void main(String[] args) {
     String s = "HeLLo";
     String t = "";

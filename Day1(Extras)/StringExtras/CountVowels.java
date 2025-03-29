@@ -1,4 +1,4 @@
-public class One {
+public class CountVowels {
     public static void main(String[] args) {
     String s = "hello java";
     int v = 0, c = 0;

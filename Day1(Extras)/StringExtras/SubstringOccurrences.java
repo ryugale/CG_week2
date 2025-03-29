@@ -1,4 +1,4 @@
-public class Six {
+public class SubstringOccurrences {
     public static void main(String[] args) {
     String s = "lololol";
     String sub = "lol";

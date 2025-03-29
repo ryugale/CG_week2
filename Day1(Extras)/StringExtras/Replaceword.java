@@ -1,4 +1,4 @@
-public class Twelve {
+public class Replaceword {
 
     public static void main(String[] args) {
         String s = "i love java java is fun";
