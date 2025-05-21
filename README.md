@@ -9,8 +9,7 @@ understanding the principles of Object-Oriented Programming in Java.
   - 01 - Java Class & Objects/Level-1
   - 02 - Java Constructors, Instance vs Class Variables
   - 03 - this, static, final key words and instance methods
-  - 05 - Inheritance/Level - 1
-  - 06 - Encapsulation, Polymorphism, Interface
+  - 05 - Inheritance
   - EXTRAS
 - Prerequisites
 - How to Use This Repository
@@ -36,7 +35,7 @@ The second week was dedicated to learning the key object-oriented features of Ja
 - final keyword for constants and immutability
 - Writing and using instance methods
 
-### 05 - Inheritance/Level - 1
+### 05 - Inheritance
 - Concept of inheritance
 - Extending classes
 - Using super keyword
